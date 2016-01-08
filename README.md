@@ -1,4 +1,4 @@
-# nScope-Software
+# nScope Software
 
 This repository catalogs nScope main software releases, it will be primarily used for issue tracking.
 

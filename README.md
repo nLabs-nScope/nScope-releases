@@ -1,5 +1,7 @@
 # nScope Software
 
-This repository catalogs nScope main software releases, it will be primarily used for issue tracking.
+This repository is deprecated, although the issues are still being tracked. We will transition to a full source-code available repository for nScope.
 
-Please submit all bugs/issues in the nScope software to this repository. Do NOT submit issues or questions regarding nScopeAPI to this repository. All API issues should be logged in the [API repository](https://github.com/nLabs-nScope/nScopeAPI).
+For the latest nScope release, please download here.
+
+## http://www.nscope.org/download/
